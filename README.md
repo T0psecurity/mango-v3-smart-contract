@@ -12,6 +12,7 @@ Mango has been audited by Neodyme, you can find the report [here](./audit.pdf).
 You will be compensated by the Mango DAO for privately reporting vulnerabilities to the maintainers of this repo.
 Email hello@blockworks.foundation
 
+
 ## Branches and Tags
 - New development happens on `main`. Pull requests should always target `main` by default.
 - Release branches have names like `release/3.3.0` and are branched off of `main` or a parent release branch.
